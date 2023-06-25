@@ -20,6 +20,3 @@ closeWindowBtn.onclick = () => {
   openedWindow.close();
 }
 
-closePage.onclick = () => {
-  window.close();
-}
